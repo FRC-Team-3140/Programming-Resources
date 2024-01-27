@@ -23,6 +23,7 @@ Run through these checklists before a match.
 
  * https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html
  * https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/frc-game-tools.html
+ * https://pdocs.kauailabs.com/navx-mxp/guidance/magnetometer-calibration/
 
 ## CAD
 
